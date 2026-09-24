@@ -1,0 +1,17 @@
+Efficiency Pilot - personal use notice
+
+This app is provided to you free, for personal use on your own vehicle only.
+
+You may:
+- Install and use it on your own car's head unit.
+
+You may not:
+- Redistribute, resell, or repackage this app, in whole or in part.
+- Rebrand it or present it as your own work.
+- Reverse-engineer, decompile, or modify it for redistribution.
+
+This app periodically checks online to confirm it is still a supported version. Continued
+functionality is not guaranteed and may be withdrawn at any time.
+
+Copyright (c) 2026 parmahamsolo@gmail.com. All rights reserved.
+Contact: parmahamsolo@gmail.com
