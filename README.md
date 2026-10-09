@@ -13,7 +13,7 @@ Big numbers, live feedback, and a rank progression to keep it fun.
 </p>
 
 ---
-
+<br>
 
 ## Why this one?
 
@@ -29,7 +29,7 @@ Efficiency Pilot goes the other way:
 
 The idea: you don't learn efficient driving from a report after the trip. You learn it from
 instant feedback while you drive.
-
+<br>
 
 ## What's on screen
 
@@ -43,6 +43,7 @@ instant feedback while you drive.
 | 🏅 **Efficiency rank** | Your level, title and XP bar. |
 
 Works full screen, or in **split screen** next to your map.
+<br>
 
 ## Screenshots
 
@@ -50,14 +51,15 @@ Works full screen, or in **split screen** next to your map.
 **Full screen**
 
 <img src="media/main_screen.jpg" alt="Full-screen landscape HUD" width="100%">
-
+<br>
 
 **Split screen, next to any app (ie. maps)**
 
 <img src="media/split_screen.jpg" alt="Split-screen HUD next to the map" width="100%">
+<br>
 
 [▶ Watch the clip as a video](media/preview.mp4)
-
+<br>
 
 ## Ranks & XP
 
@@ -72,14 +74,14 @@ Every 550 XP is a level up. Your rank is saved, so it carries over from drive to
 <img src="media/ranks.png" alt="All 10 rank tiers from Energy Cadet (Lv 1-10) to Efficiency Grandmaster (Lv 91-100)" width="100%">
 
 Each tier has 10 steps (Energy Cadet I, II, III ... X). Hit Lv 100 and you keep going.
-
+<br>
 
 ## Will it work on my car?
 
 - ✅ **BYD Sealion 7 with DiLink 5.** Built and tested on this car.
 - ❓ **Other BYD models on DiLink 5.** Might work, not tested. Let me know!
 - ❌ Phones and other cars. No, it reads data from BYD's own system.
-
+<br>
 
 ## Privacy
 
@@ -88,7 +90,7 @@ Each tier has 10 steps (Energy Cadet I, II, III ... X). Hit Lv 100 and you keep 
 - About once a month it checks it's still a supported version. That sends only an anonymous
   install ID and the app version. Nothing else.
   ([details](PERSONAL_USE_NOTICE.txt))
-
+<br>
 
 ## Install
 
@@ -125,17 +127,17 @@ drag-and-drop APK installer for BYD cars, made by
 2. Open Buddy Load, type in car's IP address, click **Connect**.
 3. If car asks **"Allow USB debugging?"**, tap **Allow**.
 4. Drag the Efficiency Pilot `.apk` into Buddy Load and click **Install**.
-
+<br>
 
 ### Phone or Tablet Option:
 
 Any method that installs a normal `.apk` also works. For example:
 Hook up your phone or tablet and car to the **same Wi-Fi**,
 Use "atv Tools" app to install the .apk.
-
+<br>
 
 **Updating?** Just install the new APK over the old one, whichever way you used. Your rank stays.
-
+<br>
 
 ## First-time setup (2 minutes, once)
 
@@ -145,22 +147,23 @@ Use "atv Tools" app to install the .apk.
 4. The app restarts once. Done, live numbers appear.
 
 Stuck? The Setup screen tells you which step is missing.
-
+<br>
 
 ## Quick questions
 
 **Is it safe for my car?**
 Yes. It only reads values, it doesn't change anything.
+<br>
 
 **Why does it need ADB?**
 BYD doesn't let normal apps see car data. ADB is how the app gets that access. It resets
 every time the head unit restarts.
-
+<br>
 
 ## Stay updated
 
 Click **Watch → Custom → Releases** at the top of this page to get pinged when a new version drops.
-
+<br>
 
 ## Say hi
 
