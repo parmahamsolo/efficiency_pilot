@@ -1,7 +1,7 @@
 # Efficiency Pilot
 
 **A live efficiency dashboard for the BYD Sealion 7 (DiLink 5).**
-Big numbers, live feedback, and a rank to chase. That's it.
+Big numbers, live feedback, and a rank progression to keep it fun.
 
 <p align="center">
   <img src="media/preview.gif" alt="Efficiency Pilot live while driving: power and regen gauge moving" width="100%">
@@ -16,8 +16,8 @@ Big numbers, live feedback, and a rank to chase. That's it.
 
 ## Why this one?
 
-Most EV apps throw a wall of charts at you. Tiny fonts, heavy text, ten graphs you'll never read
-while driving.
+Most apps throw a wall of charts at you. Tiny fonts, heavy text, ten graphs you'll never read
+while driving. Yawn.
 
 Efficiency Pilot goes the other way:
 
@@ -104,12 +104,6 @@ Each tier has 10 steps (Energy Cadet I, II, III ... X). Hit Lv 100 and you keep 
 
 Stuck? The Setup screen tells you which step is missing.
 
-## Good to know
-
-- **After the head unit restarts,** the car turns Wireless ADB off. Turn it back on, open the
-  app, tap **Connect again** in Setup (often it reconnects by itself).
-- **When the car goes to standby,** BYD closes all third-party apps. Just reopen it next drive.
-
 ## Quick questions
 
 **Is it safe for my car?**
@@ -118,12 +112,6 @@ Yes. It only reads values, it doesn't change anything.
 **Why does it need ADB?**
 BYD doesn't let normal apps see car data. ADB is how the app gets that access. It resets
 every time the head unit restarts.
-
-**Does it cost anything?**
-Nope. Free for personal use.
-
-**Where's the source code?**
-Not public. This repo is for downloads and updates.
 
 ## Stay updated
 
