@@ -17,18 +17,19 @@ Big numbers, live feedback, and a rank progression to keep it fun.
 
 ## Why this app?
 
-Most apps throw a wall of charts at you. Tiny fonts, heavy text, ten graphs you'll never read
-while driving. Yawn.
+Most apps throw a wall of charts at you. Tiny fonts, heavy text, 10 graphs you'll never read
+while driving, and too tired to analyze after a long day. Yawn.
 
 Efficiency Pilot goes the other way:
 
-- **Simple.** A few big numbers you can read in a glance. Nothing to dig through.
+- **Simple.** A few big numbers you can read in a glance. Intuitive design. Nothing to dig through.
 - **Live.** Press the pedal, watch it go red. Lift off, watch it go green. You *feel* what's
   costing you range, the moment it happens.
 - **Fun.** Drive smoothly, earn XP, rank up. It turns saving energy into a little game.
 
 The idea: you don't learn efficient driving from a report after the trip. You learn it from
 instant feedback while you drive.
+Designed for a split-second glance, never a long look. The road always comes first.
 <br>
 <br>
 
@@ -43,7 +44,7 @@ instant feedback while you drive.
 | 🌀 **Motor speed** | Live RPM, plus your trip max. |
 | 🏅 **Efficiency rank** | Your level, title and XP bar. |
 
-Works full screen, or in **split screen** next to other apps.
+Works in full screen, or in **split-screen** next to other apps.
 <br>
 <br>
 
