@@ -43,19 +43,19 @@ instant feedback while you drive.
 | 🌀 **Motor speed** | Live RPM, plus your trip max. |
 | 🏅 **Efficiency rank** | Your level, title and XP bar. |
 
-Works full screen, or in **split screen** next to your map.
+Works full screen, or in **split screen** next to other apps.
 <br>
 <br>
 
 ## What's it look like?
 <br>
 
-**Full view**
+**Full screen mode**
 
 <img src="media/main_screen.jpg" alt="Full-screen landscape HUD" width="100%">
 <br>
 
-**Compact view, split-screen next to any app (ie. maps)**
+**Compact mode, split-screen with any app (ie. maps)**
 
 <img src="media/split_screen.jpg" alt="Split-screen HUD next to the map" width="100%">
 
@@ -64,14 +64,14 @@ Works full screen, or in **split screen** next to your map.
 
 ## Ranks & XP
 
-You earn XP as you drive. The more efficient you are, the faster it comes in:
+You earn XP as you drive. The more efficient you are, the faster you level up:
 
 - Drive at **12.5 kWh/100km or better** → **2× XP**
 - Average driving → normal XP
 - Heavy right foot → you still earn, just slower
 <br>
 
-Every 550 XP is a level up. Your rank is saved, so it carries over from drive to drive.
+Your rank is saved, so it carries over from drive to drive.
 
 <img src="media/ranks.png" alt="All 10 rank tiers from Energy Cadet (Lv 1-10) to Efficiency Grandmaster (Lv 91-100)" width="100%">
 <br>
@@ -80,7 +80,7 @@ Every 550 XP is a level up. Your rank is saved, so it carries over from drive to
 ## Will it work on my car?
 
 - ✅ **BYD Sealion 7 with DiLink 5.** Built and tested on this car.
-- ❓ **Other BYD models on DiLink 5.** Might work, not tested. Let me know!
+- ❓ **Other BYD models on DiLink system.** Might work, not tested. Let me know!
 - ❌ Phones and other cars. No, it reads data from BYD's own system.
 <br>
 
