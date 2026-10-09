@@ -49,7 +49,7 @@ Works in full screen, or in **split-screen** next to other apps.
 <br>
 <br>
 
-## What's it look like?
+## How's it look?
 <br>
 
 **Full screen mode**
@@ -79,23 +79,23 @@ Your rank is saved, so it carries over from drive to drive.
 <br>
 <br>
 
-## Will it work on my car?
+## Will it work?
 
 - ✅ **BYD Sealion 7 with DiLink 5.** Built and tested on this car.
 - ❓ **Other BYD models on DiLink system.** Might work, not tested. Let me know!
 - ❌ Phones and other cars. No, it reads data from BYD's own system.
 <br>
 
-## Privacy
+## How secure is this?
 
-- No account, no ads, no trip history, no location tracking.
+- No account signup, no ads, no trip history, no location tracking.
 - It only **reads** battery, speed and motor data. It never changes a car setting.
 - About once a month it checks it's still a supported version. That sends only an anonymous
   install ID and the app version. Nothing else.
   ([details](PERSONAL_USE_NOTICE.txt))
 <br>
 
-## Install Me
+## Install Me!
 
 First, download `efficiency-pilot-<version>.apk` from **[Releases](../../releases/latest)**.
 Then pick one option to get it onto the car.
@@ -158,9 +158,19 @@ Stuck? The Setup screen tells you which step is missing.
 
 ## Quick questions
 
+**Q: Is it free?**
+<br>
+- Yes. No ads, no payment required.
+<br>
+
 **Q: Is it safe for my car?**
 <br>
-- Yes. It only reads values, it doesn't change anything.
+- Yes. It only reads values, it doesn't change anything in the system.
+<br>
+
+**Q: Is it safe for me?**
+<br>
+- Yes. No account signups, no car, behavioral or profile data collected remotely.
 <br>
 
 **Q: Why does it need ADB?**
