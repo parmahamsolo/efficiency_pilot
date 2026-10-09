@@ -52,10 +52,6 @@ Works full screen, or in **split screen** next to your map.
 
 <img src="media/split_screen.jpg" alt="Split-screen HUD next to the map" width="100%">
 
-**In the car**
-
-<img src="media/real_life.jpg" alt="Efficiency Pilot running on a BYD Sealion 7 head unit" width="100%">
-
 [▶ Watch the clip as a video](media/preview.mp4)
 
 ## Ranks & XP
