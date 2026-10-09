@@ -15,7 +15,7 @@ Big numbers, live feedback, and a rank progression to keep it fun.
 <br>
 <br>
 
-## Why this one?
+## Why this app?
 
 Most apps throw a wall of charts at you. Tiny fonts, heavy text, ten graphs you'll never read
 while driving. Yawn.
@@ -32,7 +32,7 @@ instant feedback while you drive.
 <br>
 <br>
 
-## What's on screen
+## What's on screen?
 
 | | |
 |---|---|
@@ -47,19 +47,18 @@ Works full screen, or in **split screen** next to your map.
 <br>
 <br>
 
-## Screenshots
+## What's it look like?
 <br>
 
-**Full screen**
+**Full view**
 
 <img src="media/main_screen.jpg" alt="Full-screen landscape HUD" width="100%">
 <br>
 
-**Split screen, next to any app (ie. maps)**
+**Compact view, split-screen next to any app (ie. maps)**
 
 <img src="media/split_screen.jpg" alt="Split-screen HUD next to the map" width="100%">
 
-[▶ Watch the clip as a video](media/preview.mp4)
 <br>
 <br>
 
