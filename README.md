@@ -84,12 +84,46 @@ Each tier has 10 steps (Energy Cadet I, II, III ... X). Hit Lv 100 and you keep 
 
 ## Install
 
-1. Download `efficiency-pilot-<version>.apk` from **[Releases](../../releases/latest)**.
-2. On the head unit, switch to **rotated (vertical) screen mode**.
-3. Open **Developer options** and turn on **Wireless ADB debugging**.
-4. Install the APK over wireless ADB.
+First, download `efficiency-pilot-<version>.apk` from **[Releases](../../releases/latest)**.
+Then pick one way to get it onto the car.
 
-**Updating?** Just install the new APK over the old one. Your rank stays.
+> ⚠️ Park the car somewhere safe first. Never install apps while driving.
+
+### Option 1 (easiest): Buddy Load
+
+[**Buddy Load**](https://github.com/charleschowsg/buddy-load/releases/tag/v0.1.0) is a free
+drag-and-drop APK installer for BYD cars, made by
+[charleschowsg](https://github.com/charleschowsg). No command line needed.
+
+📺 **Watch the setup video:** [How to install apps on your BYD with Buddy Load](https://www.youtube.com/watch?v=UlTqWwfzwnk)
+
+**What you need:** a laptop (Mac with Apple Silicon, or Windows 64-bit) on the **same Wi-Fi**
+as the car.
+
+**On the car:**
+1. Tap the **Wi-Fi** icon and note down the car's **IP address**.
+2. Go to **Settings → Version**, then keep tapping **Factory reset** until a hidden menu opens.
+   (It doesn't reset anything, it just opens the menu.)
+3. **Rotate the screen** to vertical. Tap the option at the top until it says
+   **"ADB debugging turned on"**. Rotate back.
+
+**On your laptop:**
+1. Download Buddy Load from its
+   [release page](https://github.com/charleschowsg/buddy-load/releases/tag/v0.1.0):
+   - **Mac:** the `.dmg` file. Open it and drag Buddy Load to Applications.
+   - **Windows:** the `-setup.exe` file. If Windows says *"Windows protected your PC"*, click
+     **More info → Run anyway**.
+2. Open Buddy Load, type in the car's IP address, and click **Connect**.
+3. If the car asks **"Allow USB debugging?"**, tap **Allow**.
+4. Drag the Efficiency Pilot `.apk` into Buddy Load and click **Install**.
+5. Done. Efficiency Pilot is now in the car's app drawer.
+
+### Option 2: any other way you like
+
+Already have a way to sideload apps? Use it. Any method that installs a normal `.apk` works,
+for example `adb install` from a laptop over wireless ADB.
+
+**Updating?** Just install the new APK over the old one, whichever way you used. Your rank stays.
 
 ## First-time setup (2 minutes, once)
 
