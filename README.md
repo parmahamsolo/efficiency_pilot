@@ -87,18 +87,15 @@ Each tier has 10 steps (Energy Cadet I, II, III ... X). Hit Lv 100 and you keep 
 First, download `efficiency-pilot-<version>.apk` from **[Releases](../../releases/latest)**.
 Then pick one way to get it onto the car.
 
-> ⚠️ Park the car somewhere safe first. Never install apps while driving.
-
-### Option 1 (easiest): Buddy Load
+### Option 1: Buddy Load
 
 [**Buddy Load**](https://github.com/charleschowsg/buddy-load/releases/tag/v0.1.0) is a free
 drag-and-drop APK installer for BYD cars, made by
-[charleschowsg](https://github.com/charleschowsg). No command line needed.
+[charleschowsg](https://www.youtube.com/@bydbuddy). No command line needed.
 
-📺 **Watch the setup video:** [How to install apps on your BYD with Buddy Load](https://www.youtube.com/watch?v=UlTqWwfzwnk)
+📺 **Watch setup video:** [How to install apps on your BYD with Buddy Load](https://www.youtube.com/watch?v=UlTqWwfzwnk)
 
-**What you need:** a laptop (Mac with Apple Silicon, or Windows 64-bit) on the **same Wi-Fi**
-as the car.
+**What you need:** Mac or Windows laptop on the **same Wi-Fi** as the car.
 
 **On the car:**
 1. Tap the **Wi-Fi** icon and note down the car's **IP address**.
@@ -120,8 +117,9 @@ as the car.
 
 ### Option 2: any other way you like
 
-Already have a way to sideload apps? Use it. Any method that installs a normal `.apk` works,
-for example `adb install` from a laptop over wireless ADB.
+Already have a way to sideload apps? Use it. Any method that installs a normal `.apk` works.
+For example, rotate vertical screen, tap "factory reset" in "version" of car settings, enable ADB debug mode, and use "atv Tools" app to install the .apk.
+
 
 **Updating?** Just install the new APK over the old one, whichever way you used. Your rank stays.
 
