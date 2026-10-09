@@ -12,7 +12,6 @@ Big numbers, live feedback, and a rank progression to keep it fun.
   &nbsp;·&nbsp; Free &nbsp;·&nbsp; No account &nbsp;·&nbsp; No ads
 </p>
 
----
 <br>
 <br>
 
@@ -135,7 +134,9 @@ drag-and-drop APK installer for BYD cars, made by
 ### (B) Phone or Tablet Option:
 
 Any method that installs a normal `.apk` also works. For example:
+<br>
 Hook up your phone or tablet and car to the **same Wi-Fi**,
+<br>
 Use "atv Tools" app to install the .apk.
 <br>
 
@@ -156,14 +157,14 @@ Stuck? The Setup screen tells you which step is missing.
 
 ## Quick questions
 
-**Is it safe for my car?**
+**Q: Is it safe for my car?**
 <br>
-Yes. It only reads values, it doesn't change anything.
+- Yes. It only reads values, it doesn't change anything.
 <br>
 
-**Why does it need ADB?**
+**Q: Why does it need ADB?**
 <br>
-BYD doesn't let normal apps see car data. ADB is how the app gets that access. It resets
+- BYD doesn't let normal apps see car data. ADB is how the app gets that access. It resets
 every time the head unit restarts.
 <br>
 <br>
