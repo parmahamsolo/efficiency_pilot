@@ -14,6 +14,7 @@ Big numbers, live feedback, and a rank progression to keep it fun.
 
 ---
 
+
 ## Why this one?
 
 Most apps throw a wall of charts at you. Tiny fonts, heavy text, ten graphs you'll never read
@@ -28,6 +29,7 @@ Efficiency Pilot goes the other way:
 
 The idea: you don't learn efficient driving from a report after the trip. You learn it from
 instant feedback while you drive.
+
 
 ## What's on screen
 
@@ -44,15 +46,18 @@ Works full screen, or in **split screen** next to your map.
 
 ## Screenshots
 
+
 **Full screen**
 
 <img src="media/main_screen.jpg" alt="Full-screen landscape HUD" width="100%">
 
-**Split screen, next to navigation**
+
+**Split screen, next to any app (ie. maps)**
 
 <img src="media/split_screen.jpg" alt="Split-screen HUD next to the map" width="100%">
 
 [▶ Watch the clip as a video](media/preview.mp4)
+
 
 ## Ranks & XP
 
@@ -68,11 +73,13 @@ Every 550 XP is a level up. Your rank is saved, so it carries over from drive to
 
 Each tier has 10 steps (Energy Cadet I, II, III ... X). Hit Lv 100 and you keep going.
 
+
 ## Will it work on my car?
 
 - ✅ **BYD Sealion 7 with DiLink 5.** Built and tested on this car.
 - ❓ **Other BYD models on DiLink 5.** Might work, not tested. Let me know!
 - ❌ Phones and other cars. No, it reads data from BYD's own system.
+
 
 ## Privacy
 
@@ -82,12 +89,23 @@ Each tier has 10 steps (Energy Cadet I, II, III ... X). Hit Lv 100 and you keep 
   install ID and the app version. Nothing else.
   ([details](PERSONAL_USE_NOTICE.txt))
 
+
 ## Install
 
 First, download `efficiency-pilot-<version>.apk` from **[Releases](../../releases/latest)**.
-Then pick one way to get it onto the car.
+Then pick one option to get it onto the car.
 
-### Option 1: Buddy Load
+### Step 1 - Must do:
+
+**On your car:**
+1. Go to **Settings → Version**, then keep tapping **Factory reset** until a hidden menu opens.
+2. **Rotate screen** to portrait mode. 
+3. Tap top option until it says **"ADB debugging turned on"**.
+
+
+### Step 2 - Choose one option
+
+### Laptop Option (easy!): Buddy Load
 
 [**Buddy Load**](https://github.com/charleschowsg/buddy-load/releases/tag/v0.1.0) is a free
 drag-and-drop APK installer for BYD cars, made by
@@ -95,33 +113,28 @@ drag-and-drop APK installer for BYD cars, made by
 
 📺 **Watch setup video:** [How to install apps on your BYD with Buddy Load](https://www.youtube.com/watch?v=UlTqWwfzwnk)
 
-**What you need:** Mac or Windows laptop on the **same Wi-Fi** as the car.
-
-**On the car:**
-1. Tap the **Wi-Fi** icon and note down the car's **IP address**.
-2. Go to **Settings → Version**, then keep tapping **Factory reset** until a hidden menu opens.
-   (It doesn't reset anything, it just opens the menu.)
-3. **Rotate the screen** to vertical. Tap the option at the top until it says
-   **"ADB debugging turned on"**. Rotate back.
+**What you need:** Mac or Windows laptop on **same Wi-Fi** as the car.
 
 **On your laptop:**
-1. Download Buddy Load from its
+1. Download Buddy Load from
    [release page](https://github.com/charleschowsg/buddy-load/releases/tag/v0.1.0):
-   - **Mac:** the `.dmg` file. Open it and drag Buddy Load to Applications.
-   - **Windows:** the `-setup.exe` file. If Windows says *"Windows protected your PC"*, click
+   - **Mac:** `.dmg` file. Open and drag Buddy Load to Applications.
+   - **Windows:** `-setup.exe` file. If Windows says *"Windows protected your PC"*, click
      **More info → Run anyway**.
-2. Open Buddy Load, type in the car's IP address, and click **Connect**.
-3. If the car asks **"Allow USB debugging?"**, tap **Allow**.
+2. Open Buddy Load, type in car's IP address, click **Connect**.
+3. If car asks **"Allow USB debugging?"**, tap **Allow**.
 4. Drag the Efficiency Pilot `.apk` into Buddy Load and click **Install**.
-5. Done. Efficiency Pilot is now in the car's app drawer.
 
-### Option 2: any other way you like
 
-Already have a way to sideload apps? Use it. Any method that installs a normal `.apk` works.
-For example, rotate vertical screen, tap "factory reset" in "version" of car settings, enable ADB debug mode, and use "atv Tools" app to install the .apk.
+### Phone or Tablet Option:
+
+Any method that installs a normal `.apk` also works. For example:
+Hook up your phone or tablet and car to the **same Wi-Fi**,
+Use "atv Tools" app to install the .apk.
 
 
 **Updating?** Just install the new APK over the old one, whichever way you used. Your rank stays.
+
 
 ## First-time setup (2 minutes, once)
 
@@ -132,6 +145,7 @@ For example, rotate vertical screen, tap "factory reset" in "version" of car set
 
 Stuck? The Setup screen tells you which step is missing.
 
+
 ## Quick questions
 
 **Is it safe for my car?**
@@ -141,9 +155,11 @@ Yes. It only reads values, it doesn't change anything.
 BYD doesn't let normal apps see car data. ADB is how the app gets that access. It resets
 every time the head unit restarts.
 
+
 ## Stay updated
 
 Click **Watch → Custom → Releases** at the top of this page to get pinged when a new version drops.
+
 
 ## Say hi
 
