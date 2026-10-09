@@ -4,7 +4,7 @@
 Big numbers, live feedback, and a rank progression to keep it fun.
 
 <p align="center">
-  <img src="media/preview.gif" alt="Efficiency Pilot live while driving: power and regen gauge moving" width="100%">
+  <img src="media/preview.webp" alt="Efficiency Pilot live while driving: power and regen gauge moving" width="100%">
 </p>
 
 <p align="center">
