@@ -96,6 +96,7 @@ First, download `efficiency-pilot-<version>.apk` from **[Releases](../../release
 Then pick one option to get it onto the car.
 
 <br>
+
 ### Step 1 - Must do:
 
 **On your car:**
@@ -105,6 +106,7 @@ Then pick one option to get it onto the car.
 
 <br>
 <br>
+
 ### Step 2 - Choose one option
 
 ### Laptop Option (easy!): Buddy Load
