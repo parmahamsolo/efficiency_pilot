@@ -38,6 +38,7 @@ Designed for a split-second glance, never a long look. The road always comes fir
 | | |
 |---|---|
 | ⚡ **Power / regen gauge** | Red = using power. Green = getting energy back. |
+| 🎯 **Power / regen averages** | Blue ticks on each side show your average over the last 5 minutes. Stay under the power tick to drive smoother. |
 | 📊 **Trip efficiency** | Your kWh/100km for this trip. |
 | 🔋 **Range recovered** | How many km regen has given back. |
 | 📈 **Recent efficiency** | A small rolling line, so you see if you're getting better. |
