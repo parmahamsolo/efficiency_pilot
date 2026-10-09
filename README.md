@@ -38,12 +38,12 @@ Designed for a split-second glance, never a long look. The road always comes fir
 | | |
 |---|---|
 | ⚡ **Power / regen gauge** | Red = using power. Green = getting energy back. |
-| 🎯 **Power / regen averages** | Blue ticks on each side show your average over the last 5 minutes. |
+| 🎯 **Power / regen averages** | Blue ticks on each side show your average over 5 minutes. |
 | 📊 **Trip efficiency** | Your kWh/100km for this trip. |
 | 🔋 **Range recovered** | How many km regen has given back. |
-| 📈 **Recent efficiency** | A small rolling line over the past 3KM, to see if you're getting better. |
-| 🌀 **Motor speed** | Live RPM, plus your trip max. |
-| 🏅 **Efficiency rank** | Your level, title and XP bar. |
+| 📈 **Recent efficiency** | A small rolling line over 10km, to see if you're getting efficient. |
+| 🌀 **Motor speed** | Live RPM. Easing off a little on motor spinning saves power. |
+| 🏅 **Efficiency rank** | Your level and title. Level up faster by driving efficiently! |
 
 Works in full screen, or in **split-screen** next to other apps.
 <br>
