@@ -94,7 +94,6 @@ Each tier has 10 steps (Energy Cadet I, II, III ... X). Hit Lv 100 and you keep 
 
 First, download `efficiency-pilot-<version>.apk` from **[Releases](../../releases/latest)**.
 Then pick one option to get it onto the car.
-
 <br>
 
 ### Step 1 - Must do:
@@ -103,8 +102,6 @@ Then pick one option to get it onto the car.
 1. Go to **Settings → Version**, then keep tapping **Factory reset** until a hidden menu opens.
 2. **Rotate screen** to portrait mode. 
 3. Tap top option until it says **"ADB debugging turned on"**.
-
-<br>
 <br>
 
 ### Step 2 - Choose one option
