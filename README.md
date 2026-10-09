@@ -95,7 +95,7 @@ Every 550 XP is a level up. Your rank is saved, so it carries over from drive to
   ([details](PERSONAL_USE_NOTICE.txt))
 <br>
 
-## Install
+## Install Me
 
 First, download `efficiency-pilot-<version>.apk` from **[Releases](../../releases/latest)**.
 Then pick one option to get it onto the car.
@@ -109,9 +109,9 @@ Then pick one option to get it onto the car.
 3. Tap top option until it says **"ADB debugging turned on"**.
 <br>
 
-### Step 2 - Choose one option
+### Step 2 - Choose option (A) or (B)
 
-### Laptop Option (easy!): Buddy Load
+### (A) - Laptop Option (easy!): Buddy Load
 
 [**Buddy Load**](https://github.com/charleschowsg/buddy-load/releases/tag/v0.1.0) is a free
 drag-and-drop APK installer for BYD cars, made by
@@ -132,7 +132,7 @@ drag-and-drop APK installer for BYD cars, made by
 4. Drag the Efficiency Pilot `.apk` into Buddy Load and click **Install**.
 <br>
 
-### Phone or Tablet Option:
+### (B) Phone or Tablet Option:
 
 Any method that installs a normal `.apk` also works. For example:
 Hook up your phone or tablet and car to the **same Wi-Fi**,
@@ -143,7 +143,7 @@ Use "atv Tools" app to install the .apk.
 <br>
 <br>
 
-## First-time setup (2 minutes, once)
+## First-time setup (once)
 
 1. Keep **Wireless ADB debugging** on.
 2. Open Efficiency Pilot, tap **`...`** (bottom right), then **Allow vehicle access**.
@@ -157,10 +157,12 @@ Stuck? The Setup screen tells you which step is missing.
 ## Quick questions
 
 **Is it safe for my car?**
+<br>
 Yes. It only reads values, it doesn't change anything.
 <br>
 
 **Why does it need ADB?**
+<br>
 BYD doesn't let normal apps see car data. ADB is how the app gets that access. It resets
 every time the head unit restarts.
 <br>
