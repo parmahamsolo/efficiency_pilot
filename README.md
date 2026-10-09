@@ -14,6 +14,7 @@ Big numbers, live feedback, and a rank progression to keep it fun.
 
 ---
 <br>
+<br>
 
 ## Why this one?
 
@@ -30,6 +31,7 @@ Efficiency Pilot goes the other way:
 The idea: you don't learn efficient driving from a report after the trip. You learn it from
 instant feedback while you drive.
 <br>
+<br>
 
 ## What's on screen
 
@@ -44,9 +46,10 @@ instant feedback while you drive.
 
 Works full screen, or in **split screen** next to your map.
 <br>
+<br>
 
 ## Screenshots
-
+<br>
 
 **Full screen**
 
@@ -56,9 +59,9 @@ Works full screen, or in **split screen** next to your map.
 **Split screen, next to any app (ie. maps)**
 
 <img src="media/split_screen.jpg" alt="Split-screen HUD next to the map" width="100%">
-<br>
 
 [▶ Watch the clip as a video](media/preview.mp4)
+<br>
 <br>
 
 ## Ranks & XP
@@ -68,12 +71,12 @@ You earn XP as you drive. The more efficient you are, the faster it comes in:
 - Drive at **12.5 kWh/100km or better** → **2× XP**
 - Average driving → normal XP
 - Heavy right foot → you still earn, just slower
+<br>
 
 Every 550 XP is a level up. Your rank is saved, so it carries over from drive to drive.
 
 <img src="media/ranks.png" alt="All 10 rank tiers from Energy Cadet (Lv 1-10) to Efficiency Grandmaster (Lv 91-100)" width="100%">
-
-Each tier has 10 steps (Energy Cadet I, II, III ... X). Hit Lv 100 and you keep going.
+<br>
 <br>
 
 ## Will it work on my car?
@@ -138,6 +141,7 @@ Use "atv Tools" app to install the .apk.
 
 **Updating?** Just install the new APK over the old one, whichever way you used. Your rank stays.
 <br>
+<br>
 
 ## First-time setup (2 minutes, once)
 
@@ -147,6 +151,7 @@ Use "atv Tools" app to install the .apk.
 4. The app restarts once. Done, live numbers appear.
 
 Stuck? The Setup screen tells you which step is missing.
+<br>
 <br>
 
 ## Quick questions
@@ -159,10 +164,12 @@ Yes. It only reads values, it doesn't change anything.
 BYD doesn't let normal apps see car data. ADB is how the app gets that access. It resets
 every time the head unit restarts.
 <br>
+<br>
 
 ## Stay updated
 
 Click **Watch → Custom → Releases** at the top of this page to get pinged when a new version drops.
+<br>
 <br>
 
 ## Say hi
